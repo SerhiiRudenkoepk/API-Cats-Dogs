@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Pet16",
+        "type": "cat",
+        "age": 2,
+        "mischief_level": 7,
+        "special_ability": "none",
+        "status": "sleepy"
+    },
+    {
+        "id": 2,
+        "name": "Pet88",
+        "type": "cat",
+        "age": 2,
+        "mischief_level": 2,
+        "special_ability": "none",
+        "status": "sleepy"
+    }
+]
